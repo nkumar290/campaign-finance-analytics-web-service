@@ -45,6 +45,3 @@ The Moneymatters App allows users to search for legislators using a two-letter s
 4. View search results on the landing page and click on a legislator to see detailed information.
 5. Explore legislator details, including top donors and contribution data.
 
-### Contributors
-- [Eddie Garza](eddieg2021@outlook.com)
-
